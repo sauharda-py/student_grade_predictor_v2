@@ -1,4 +1,4 @@
-# Student Grade Prediction System using Linear Regression
+![Title](title.png)
 
 ## Project Overview
 The Student Grade Prediction System is a machine learning-based web application developed to predict a student’s final academic performance using Linear Regression. The project uses various academic and behavioral factors such as previous exam scores, study time, number of absences, and past failures to estimate the final grade of a student.
@@ -73,3 +73,7 @@ The visualizations also help in understanding how different student behaviors in
 ## Conclusion
 This project demonstrates how machine learning can be used in the education sector to predict student performance and analyze important academic factors. The system combines predictive modeling with data visualization to create an informative and interactive application.
 The project also helped in understanding concepts such as data preprocessing, model training, evaluation metrics, and dashboard development using Streamlit.
+
+![1](image1.png)
+![2](image2.png)
+![3](image3.png)
